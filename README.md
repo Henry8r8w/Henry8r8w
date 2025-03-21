@@ -1,10 +1,10 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi%20there,%20I'm%20Henry👋&descAlign=50&descAlignY=49&desc=Aspiring%20{Cloud%20Engineer%20|%20AI/MLOps%20Developer}&descSize=24&section=header&reversal=true&fontAlign=50&fontAlignY=20&textBg=false&fontSize=45)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi%20there,%20I'm%20Henry👋&descAlign=50&descAlignY=49&desc=Aspiring%20{ML%20Engineer%20|%20Software%20Developer}&descSize=24&section=header&reversal=true&fontAlign=50&fontAlignY=20&textBg=false&fontSize=45)
     
   <p align="center">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Econometrics-backed+AI+Enthusiatist"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines= ML-backed Software Engineering"
       alt="Typing SVG" />
   </p>
   
@@ -15,10 +15,10 @@
 
 ## 🚀 About Me
 
-- 🎓 Electrical Enigneering and Economics undergraduate interested in in **Data Science & AI**
-- 👨‍💻 Building next-gen AI-backed solutions and MLOps pipelines
+- 🎓 Electrical Enigneering and Economics undergraduate interested in in **ML/AI-backed solution and Software Enigneering**
+- 👨‍💻 Building efficient software solutions and MLOps pipelines
 - 🌱 Currently exploring **Kubernetes** and **Web Apps**
-- 💡 Passionate about solving complex problems with AI
+- 💡 Passionate about solving buisness problems with AI and learning 
 ---
 
 ## 🏆 LeetCode Progress
