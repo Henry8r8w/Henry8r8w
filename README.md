@@ -34,7 +34,7 @@
 
 <div align="center">
 
-  ### 💻 Programming & Data Science
+  ### 💻 Programming & Machine Learning
 
   <table>
     <tr>
