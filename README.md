@@ -83,8 +83,8 @@
         <br>Docker
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-        <br>AWS
+        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+        <br>GCP
       </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="kubernetes" />
