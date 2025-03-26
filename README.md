@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science & Economics undergraduate interested in in **ML/AI-backed solution and Software Enigneering**
+- 🎓 Computer Engineering & Economics undergraduate interested in in **ML/AI-backed solution and Software Enigneering**
 - 👨‍💻 Building cool plugin tools and learning about MLOps pipelines
 - 🌱 Currently exploring **Kubernetes** and **Web Apps**
 ---
