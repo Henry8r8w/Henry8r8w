@@ -110,5 +110,5 @@
     width="100%" />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Henry8r8w&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Henry8r8w&color=brightgreen&style=flat-square" alt="Profile Views" />
 </div>
