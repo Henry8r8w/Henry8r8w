@@ -1,12 +1,6 @@
 <div align="center">
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi%20there,%20I'm%20Henry👋&descAlign=50&descAlignY=49&desc=Aspiring%20{ML%20Engineer%20|%20Software%20Developer}&descSize=24&section=header&reversal=true&fontAlign=50&fontAlignY=20&textBg=false&fontSize=45)
-    
-  <p align="center">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines= ML-backed Software Engineering"
-      alt="Typing SVG" />
-  </p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-wang-8ba47023b/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henry.reiwang@gmail.com)
@@ -99,15 +93,6 @@
 
 </div>
 
-
-
-  ## 🤝 Let's Connect and Collaborate!
-
-  <p>💼 Open for collaborations in AI/ML projects and innovative tech solutions!</p>
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"
-    width="100%" />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Henry8r8w&color=brightgreen&style=flat-square" alt="Profile Views" />
