@@ -10,8 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 Computer Engineering & Economics undergraduate interested in in **ML/AI-backed solution and Software Enigneering**
-- 👨‍💻 Building useful student tools and learning about MLOps pipelines
-- 🌱 Currently doing **kaggle competition** 
+- 🌱 Currently doing **Django and ML notes** 
 ---
 
 ## 🏆 LeetCode Progress
