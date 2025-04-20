@@ -35,8 +35,8 @@
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="SQL" width="65" height="65" />
-        <br>postgresql
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite3" width="65" height="65" />
+        <br>sqlite3
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
