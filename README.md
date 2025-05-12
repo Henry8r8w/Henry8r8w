@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 Computer Engineering & Economics undergraduate interested in in **ML/AI-backed solution and Software Enigneering**
-- 🌱 Currently doing **Django and ML - applied notes** 
+- 🌱 Currently writing **probablistics-machine-learning** repo
 ---
 
 ## 🏆 LeetCode Progress
